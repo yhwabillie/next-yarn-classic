@@ -1,6 +1,6 @@
 ## :memo: Title: next-yarn-classic
 
-패키지 매니저 Yarn classic, v1.22.22로 빌드한 NextJS 기본 템플릿입니다.
+패키지 매니저 Yarn Classic, v1.22.22로 빌드한 NextJS 기본 템플릿입니다.
 
 1. [🏠로컬] Dependency install 시간
 2. [🏠로컬] Dependency 크기
