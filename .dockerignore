@@ -1,0 +1,13 @@
+.next
+
+# dependencies
+node_modules
+Dockerfile
+.dockerignore
+.git
+.github
+.gitignore
+README.md
+.DS_Store
+.prettierrc
+.prettierignore
