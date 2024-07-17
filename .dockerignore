@@ -1,12 +1,19 @@
+# build result
 .next
 
 # dependencies
 node_modules
+
+# docker
 Dockerfile
 .dockerignore
+
+# git
 .git
 .github
 .gitignore
+
+# etc
 README.md
 .DS_Store
 .prettierrc
